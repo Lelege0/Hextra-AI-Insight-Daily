@@ -16,7 +16,7 @@ sidebar:
 ## **联系方式**
 
 *   **电子邮件 (Email):**
-    *   [justlikemaki@qq.com](mailto:1948780127@qq.com)
+    *   [1948780127@qq.com](mailto:1948780127@qq.com)
 
 *   **工作时间 (Office Hours):**
     *   周一至周五, 上午 9:00 - 下午 6:00 (GMT+8)
