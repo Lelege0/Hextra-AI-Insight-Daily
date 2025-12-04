@@ -72,9 +72,9 @@ params:
   publisher:
     type: "Person" 
     name: "AI资讯日报 | 精选AI新闻与工具 | 洞悉AI前沿动态"
-    url: "https://ai.hubtoday.app/about/"
+    url: "https://www.zxlgd.top/"
     sameAs:
-      - "https://github.com/justlovemaki"
+      - "https://www.zxlgd.top/"
       
   displayUpdatedDate: true
   dateFormat: "2006/01/02 15:04:05"
