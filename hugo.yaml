@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: 何夕2077的AI资讯日报 | 精选AI新闻与工具 | 洞悉AI前沿动态
+title: AI资讯日报 | 精选AI新闻与工具 | 洞悉AI前沿动态
 
 timezone: Asia/Shanghai
 enableRobotsTXT: true
@@ -51,12 +51,6 @@ menu:
       name: 关于我 ↗
       url: "https://github.com/justlovemaki"
       weight: 3
-    - identifier: github   
-      name: 同性交友
-      weight: 4
-      url: "https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily"
-      params:
-        icon: github
 
 params:
   adsenseId: "ca-pub-8136412975724403"
@@ -67,17 +61,17 @@ params:
   logo: "images/logo-dark.png"
   
   author:
-    name: "何夕2077的AI资讯日报 | 精选AI新闻与工具 | 洞悉AI前沿动态"
+    name: "AI资讯日报 | 精选AI新闻与工具 | 洞悉AI前沿动态"
     bio: "去海边整点薯条"
-    email: "justlikemaki@qq.com"
-    website: "https://ai.hubtoday.app/about/"
+    email: "1948780127@qq.com"
+    website: "https://www.zxlgd.top/"
     social:
       - name: "GitHub"
-        url: "https://github.com/justlovemaki"
+        url: "https://lelege0.github.io"
         
   publisher:
     type: "Person" 
-    name: "何夕2077的AI资讯日报 | 精选AI新闻与工具 | 洞悉AI前沿动态"
+    name: "AI资讯日报 | 精选AI新闻与工具 | 洞悉AI前沿动态"
     url: "https://ai.hubtoday.app/about/"
     sameAs:
       - "https://github.com/justlovemaki"
