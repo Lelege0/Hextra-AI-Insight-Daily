@@ -45,11 +45,11 @@ menu:
       weight: 1
     - identifier: blog
       name: 博客
-      pageRef: /blog
+      url: "https://www.zxlgd.top/"
       weight: 2
     - identifier: about      
       name: 关于我 ↗
-      url: "https://github.com/justlovemaki"
+      url: "https://www.zxlgd.top/"
       weight: 3
 
 params:
