@@ -57,8 +57,6 @@ jobs:
 
       - name: Commit patched content
         run: |
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "github-actions[bot]"
           git add -A
           git commit -m "Auto cleaned updated MD files" || echo "No changes"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
