@@ -48,6 +48,24 @@ jobs:
         with:
           fetch-depth: 0  # fetch all history for .GitInfo and .Lastmod
           submodules: recursive
+
+      # -----------------------
+      # ⬇️ 你要求集成的 Patch 步骤
+      # -----------------------
+      - name: Apply content patch
+        run: bash ./patch.sh
+
+      - name: Commit patched content
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git add -A
+          git commit -m "Auto cleaned updated MD files" || echo "No changes"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
+      # -----------------------
+      # ⬆️ Patch 部分结束
+      # -----------------------
+      
       - name: Setup Go
         uses: actions/setup-go@v5
         with:
