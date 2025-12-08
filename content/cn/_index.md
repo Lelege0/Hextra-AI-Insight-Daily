@@ -10,7 +10,6 @@ cascade:
 
 ## AI资讯日报 2025/12/9
 
->  `AI资讯` | `每日早读` | `全网数据聚合` | `前沿科学探索` | `行业自由发声` | `开源创新力量` | `AI与人类未来` | [访问网页版↗️](https://ai.hubtoday.app/) | [进群交流🤙](https://source.hubtoday.app/logo/wechat-qun.jpg)
 
 
 
@@ -106,13 +105,4 @@ Nature Neuroscience发表的15年研究，通过1400次fMRI锁定左额下回语
 开发者分享Claude Code与Codex[多小时运行经验(AI资讯)](https://m.okjike.com/originalPosts/693663fbd4bf861079318586)，发现详细需求文档成关键。已实现需求自动生成功能，唯一限制变为Token成本。方法基于Anthropic博客指南实践。
 
 ---
-
-## **AI资讯日报语音版**
-
-| 🎙️ **小宇宙** | 📹 **抖音** |
-| --- | --- |
-| [来生小酒馆](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)  |   [自媒体账号](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
-| ![小酒馆](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![情报站](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
-
-
 
