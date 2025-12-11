@@ -10,7 +10,6 @@ cascade:
 
 ## AI资讯日报 2025/12/12
 
->  `AI资讯` | `每日早读` | `全网数据聚合` | `前沿科学探索` | `行业自由发声` | `开源创新力量` | `AI与人类未来` | [访问网页版↗️](https://ai.hubtoday.app/) | [进群交流🤙](https://source.hubtoday.app/logo/wechat-qun.jpg)
 
 
 
@@ -100,13 +99,4 @@ Nature Communications综述展示AI如何加速[量子比特设计到纠错(AI�
 幻觉是预测最可能词序列的自然副产品,不是bug而是结构性问题。模型不判断真假只完成模式,所以[听起来超有说服力(AI资讯)](https://www.reddit.com/r/artificial/comments/1pjgh5w/what_ai_hallucination_actually_is_why_it_happens/)💡。减少方法包括强上下文、允许表达不确定、强制源头验证、分步提问、跨模型交叉检查🔥。本质是人类判断外包给AI时的责任转移。
 
 ---
-
-## **AI资讯日报语音版**
-
-| 🎙️ **小宇宙** | 📹 **抖音** |
-| --- | --- |
-| [来生小酒馆](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)  |   [自媒体账号](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
-| ![小酒馆](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![情报站](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
-
-
 
