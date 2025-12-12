@@ -10,7 +10,6 @@ cascade:
 
 ## AI资讯日报 2025/12/13
 
->  `AI资讯` | `每日早读` | `全网数据聚合` | `前沿科学探索` | `行业自由发声` | `开源创新力量` | `AI与人类未来` | [访问网页版↗️](https://ai.hubtoday.app/) | [进群交流🤙](https://source.hubtoday.app/logo/wechat-qun.jpg)
 
 
 
@@ -86,13 +85,4 @@ Anthropic理念结合[Kombaico实践(AI资讯)](https://x.com/shao__meng/status/
 开发者质疑[5.1是5.2陪衬(AI资讯)](https://x.com/Jimmy_JingLv/status/1999266190091518230)😅。Cursor里12月11号前免费5.1贼难用，数值对比纯粹为好看。<br/>![AI资讯：GPT-5.1与5.2性能指标落差图](https://source.hubtoday.app/images/2025/12/news_01kc9k0z4xejzazc27acjrds1s.avif)<br/>
 
 ---
-
-## **AI资讯日报语音版**
-
-| 🎙️ **小宇宙** | 📹 **抖音** |
-| --- | --- |
-| [来生小酒馆](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)  |   [自媒体账号](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
-| ![小酒馆](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![情报站](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
-
-
 
