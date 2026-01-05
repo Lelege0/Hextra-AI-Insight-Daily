@@ -10,7 +10,6 @@ cascade:
 
 ## AI资讯日报 2026/1/6
 
->  `AI资讯` | `每日早读` | `全网数据聚合` | `前沿科学探索` | `行业自由发声` | `开源创新力量` | `AI与人类未来` | [访问网页版↗️](https://ai.hubtoday.app/) | [进群交流🤙](https://source.hubtoday.app/logo/wechat-qun.jpg)
 
 
 
@@ -126,13 +125,4 @@ Greg Brockman转发Simon Willison观点🚀，GPT-5.2和Opus 4.5代表拐点时�
 有人感慨做了很多东西在23年开始逐一被AI干掉💡。Claude Code生成的SEO页比土法SEO强太多，[Vibe Coding两三天就能缝合一套(AI资讯)](https://x.com/Yangyixxxx/status/2007812879123185999)。连接用户生态才是AI Native🔥。<br/>
 
 ---
-
-## **AI资讯日报语音版**
-
-| 🎙️ **小宇宙** | 📹 **抖音** |
-| --- | --- |
-| [来生小酒馆](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)  |   [自媒体账号](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
-| ![小酒馆](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![情报站](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
-
-
 
