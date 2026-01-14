@@ -10,7 +10,6 @@ cascade:
 
 ## AI资讯日报 2026/1/15
 
->  `AI资讯` | `每日早读` | `全网数据聚合` | `前沿科学探索` | `行业自由发声` | `开源创新力量` | `AI与人类未来` | [访问网页版↗️](https://ai.hubtoday.app/) | [进群交流🤙](https://source.hubtoday.app/logo/wechat-qun.jpg)
 
 
 
@@ -85,13 +84,4 @@ AI有时候真的听不懂🤯**复杂意图**。新提出的[Prism框架(AI资�
 都在吹AI写代码，其实是👨‍💻**人会指挥**。Claude Code的代码是它自己写的？这说明我们进入了🤖**自我创造**时代。真正的高手懂得如何用[AI工具(AI资讯)](https://x.com/dotey/status/2011137662812635240)解决复杂问题。
 
 ---
-
-## **AI资讯日报语音版**
-
-| 🎙️ **小宇宙** | 📹 **抖音** |
-| --- | --- |
-| [来生小酒馆](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)  |   [自媒体账号](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
-| ![小酒馆](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![情报站](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
-
-
 
