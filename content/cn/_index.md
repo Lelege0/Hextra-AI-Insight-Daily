@@ -10,7 +10,6 @@ cascade:
 
 ## AI资讯日报 2026/1/21
 
->  `AI资讯` | `每日早读` | `全网数据聚合` | `前沿科学探索` | `行业自由发声` | `开源创新力量` | `AI与人类未来` | [访问网页版↗️](https://ai.hubtoday.app/) | [进群交流🤙](https://source.hubtoday.app/logo/wechat-qun.jpg)
 
 
 
@@ -111,13 +110,4 @@ Cursor团队成员分享。[经验总结(AI资讯)](https://x.com/shao__meng/sta
 [Tw93分享(AI资讯)](https://x.com/HiTw93/status/2013561565967266168)用Skill做周刊。按GitHub Stars筛选。长期任务每周自动推送。效率高非常多(✧∀✧)。<br/><video src="https://source.hubtoday.app/images/2026/01/news_01kfe1nxq7fx583v852ahny1pj.mp4" controls="controls" width="100%"></video><br/>
 
 ---
-
-## **AI资讯日报语音版**
-
-| 🎙️ **小宇宙** | 📹 **抖音** |
-| --- | --- |
-| [来生小酒馆](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)  |   [自媒体账号](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
-| ![小酒馆](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![情报站](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
-
-
 
