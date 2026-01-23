@@ -10,7 +10,6 @@ cascade:
 
 ## AI资讯日报 2026/1/24
 
->  `AI资讯` | `每日早读` | `全网数据聚合` | `前沿科学探索` | `行业自由发声` | `开源创新力量` | `AI与人类未来` | [访问网页版↗️](https://ai.hubtoday.app/) | [进群交流🤙](https://source.hubtoday.app/logo/wechat-qun.jpg)
 
 
 
@@ -106,13 +105,4 @@ DeepSeek开源[FlashMLA(AI资讯)](https://github.com/deepseek-ai/FlashMLA)，�
 [开源项目(AI资讯)](https://github.com/DophinL/ruanyifeng-weekly-skill)可直接检索阮老师8000+工具资源💡。输入问题返回最相关结果(✧∀✧)。<br/>![AI资讯：阮一峰周报检索Skill界面](https://source.hubtoday.app/images/2026/01/news_01kfnnnvrze2c9tz1b119qr3vs.avif)<br/>
 
 ---
-
-## **AI资讯日报语音版**
-
-| 🎙️ **小宇宙** | 📹 **抖音** |
-| --- | --- |
-| [来生小酒馆](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)  |   [自媒体账号](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
-| ![小酒馆](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![情报站](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
-
-
 
