@@ -10,7 +10,6 @@ cascade:
 
 ## AI资讯日报 2026/1/29
 
->  `AI资讯` | `每日早读` | `全网数据聚合` | `前沿科学探索` | `行业自由发声` | `开源创新力量` | `AI与人类未来` | [访问网页版↗️](https://ai.hubtoday.app/) | [进群交流🤙](https://source.hubtoday.app/logo/wechat-qun.jpg)
 
 
 
@@ -112,13 +111,4 @@ Stream开源[视觉代理框架(AI资讯)](https://github.com/GetStream/Vision-A
 [安全报告(AI资讯)](https://www.reddit.com/r/artificial/comments/1qp58il/we_detected_28194_attacks_on_ai_agents_this_week/)显示本周监测74636次交互🔥。**37.8%包含攻击尝试**(；´д｀)。新威胁是💡多代理系统间的毒化消息攻击。数据泄露占19.2%(✧∀✧)越狱占12.3%。
 
 ---
-
-## **AI资讯日报语音版**
-
-| 🎙️ **小宇宙** | 📹 **抖音** |
-| --- | --- |
-| [来生小酒馆](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)  |   [自媒体账号](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
-| ![小酒馆](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![情报站](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
-
-
 
